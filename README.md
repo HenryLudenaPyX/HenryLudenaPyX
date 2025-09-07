@@ -11,6 +11,9 @@
 ### Web development:
 [Web Page Exercise 01] (https://github.com/HenryLudenaPyX/WebExercise01.git) Replication of a web page using HTML and CSS
 
+### API in Python with FastAPI:
+[api_biblioteca] (https://github.com/HenryLudena/api_bilioteca) Creation of an API in Python with Docker
+
 
 <!--
 **HenryLudenaPyX/HenryLudenaPyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
