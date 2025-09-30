@@ -6,6 +6,8 @@
 
 ### Machines deployed:
 [Port 21 deprecated version] (https://github.com/HenryLudenaPyX/MaquinasPracticas/blob/main/DockerLabs/firstHacking/Solucion1%20-%20Python.md)
+### University Internship
+[Pentesting Documentation] (https://github.com/HenryLudenaPyX/PracticasUniversidad) Documentación de pentesting de pasantía universitaria
 
 ## Small Exercises:
 ### Web development:
